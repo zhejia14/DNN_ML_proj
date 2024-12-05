@@ -1,5 +1,3 @@
-### ML Assignment #5
-
 #### Execution description:
 
 依據檔名分別為：
